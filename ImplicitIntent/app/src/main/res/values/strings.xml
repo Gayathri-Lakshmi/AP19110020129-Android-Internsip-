@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="open_url">Open URL</string>
+    <string name="call">Call</string>
+    <string name="my_location">My Location</string>
+    <string name="share">Share</string>
+</resources>
