@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registartion Form</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mobile_no">Enter mobile no.</string>
+    <string name="enter_emailid">Enter emailId</string>
+    <string name="enter_password">Enter password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="skills">Skills</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="cse">CSE</string>
+    <string name="ece">ECE</string>
+    <string name="civil">Civil</string>
+    <string name="enter_roll_no">ENter Roll No.</string>
+    <string name="branch">Branch</string>
+    <string name="eee">EEE</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="submit">Submit</string>
+    <string name="enter_roll_no_">Enter Roll No.</string>
+
+
+</resources>
