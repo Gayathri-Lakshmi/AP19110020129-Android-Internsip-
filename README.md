@@ -11,6 +11,10 @@ Sharing Text is the Project Share
 
 MyCamera is the Project Camera
 
-Task5 is the project Intent
+Task5 is the Project Intent
 
 Task6 is the Project RegistrationForm
+
+Task 7 is the Project COntext Menu
+
+Task 8 is the Project Options Menu
