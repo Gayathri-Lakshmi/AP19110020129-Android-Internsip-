@@ -15,6 +15,6 @@ Task5 is the Project Intent
 
 Task6 is the Project RegistrationForm
 
-Task 7 is the Project COntext Menu
+Task 7 is the Project Context Menu
 
 Task 8 is the Project Options Menu
