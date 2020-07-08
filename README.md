@@ -18,3 +18,5 @@ Task6 is the Project RegistrationForm
 Task 7 is the Project Context Menu
 
 Task 8 is the Project Options Menu
+
+7/7/2020 taks is the Project Tabs
